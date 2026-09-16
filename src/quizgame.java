@@ -13,7 +13,6 @@ public class quizgame {
 
         // OPTIONS array[]
 
-      
 
         // DECLARE VARIABLES
 
